@@ -1,0 +1,12 @@
+{
+    "navElements": {
+        "Products": "Products",
+        "Solutions": "Solutions",
+        "Developers": "Developers",
+        "Company": "Company",
+        "Resources": "Resources",
+        "Pricing": "Pricing",
+        "Login": "Login"
+    },
+    "testimlink": "https://www.testim.io/test-automation-tool/"
+}
